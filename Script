@@ -1,3 +1,0 @@
-javascript:(function () {let code = document.createElement('script');code.src = 'https://holdthecrowns.k-e-ve.repl.co/script.js%27;document.body.appendChild(code);%7D())
-
-This is an script for friends due to them just wanting to use it, slightly modified btw!
